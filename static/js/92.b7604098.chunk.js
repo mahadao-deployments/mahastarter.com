@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[92],{367:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/COSMIC.eb636bd8.svg"}}]);
+//# sourceMappingURL=92.b7604098.chunk.js.map
