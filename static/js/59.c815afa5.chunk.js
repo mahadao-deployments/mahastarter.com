@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[59],{334:function(a,t,e){"use strict";e.r(t),t.default=e.p+"static/media/DeleteFaded.6a430be9.svg"}}]);
-//# sourceMappingURL=59.c815afa5.chunk.js.map

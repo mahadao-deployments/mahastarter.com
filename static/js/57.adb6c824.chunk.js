@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[57],{332:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/Cross.3ee0726f.svg"}}]);
-//# sourceMappingURL=57.adb6c824.chunk.js.map

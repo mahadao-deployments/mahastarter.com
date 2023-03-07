@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[28],{303:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Goerli.ac283704.svg"}}]);
-//# sourceMappingURL=28.250d0601.chunk.js.map
