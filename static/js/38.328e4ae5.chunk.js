@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[38],{330:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Firebird.17ab8bf7.svg"}}]);
-//# sourceMappingURL=38.328e4ae5.chunk.js.map

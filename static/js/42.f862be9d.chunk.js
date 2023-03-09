@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[42],{334:function(a,t,e){"use strict";e.r(t),t.default=e.p+"static/media/PickleFinance.1e80ce22.svg"}}]);
-//# sourceMappingURL=42.f862be9d.chunk.js.map

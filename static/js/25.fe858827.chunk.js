@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[25],{317:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/Starterlogomobile.78c35da6.svg"}}]);
-//# sourceMappingURL=25.fe858827.chunk.js.map
