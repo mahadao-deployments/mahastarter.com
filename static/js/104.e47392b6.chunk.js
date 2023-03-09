@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[104],{397:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/WBTC.c2cfba48.svg"}}]);
-//# sourceMappingURL=104.e47392b6.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[29],{319:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Polygon.9a0dd28d.svg"}}]);
+//# sourceMappingURL=29.bf7ce310.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[35],{328:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/CreameFinance.7c7b9a04.svg"}}]);
-//# sourceMappingURL=35.b50bea9c.chunk.js.map
